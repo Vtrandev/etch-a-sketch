@@ -1,12 +1,11 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    max-width: 960px;
+    width: 960px;
+    height: 960px;
 }
 
 .new {
-  width: 6.25%;
-  height: 48px;
   color: white;
   background-color: black;
 }
